@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "TO_EMAIL": "",
+    "AZURE_FUNCTIONS_AGENTS_PROVIDER": "foundry",
+    "FOUNDRY_PROJECT_ENDPOINT": "",
+    "FOUNDRY_MODEL": "gpt-5.4",
+    "AZURE_CLIENT_ID": "",
+    "AZURE_SEARCH_SERVICE_ENDPOINT": "",
+    "AZURE_STORAGE_BLOB_ENDPOINT": "",
+    "TRIAL_DROPS_CONTAINER": "trial-drops",
+    "TRIAL_INDEX_NAME": "trial-docs",
+    "TOOLBOX_CONTOSO_TOOLBOX_MCP_ENDPOINT": "",
+    "TOOLBOX_CONTOSO_TOOLBOX_FLAT_MCP_ENDPOINT": "",
+    "AZURE_FUNCTIONS_AGENTS_REASONING_EFFORT": "high",
+    "AZURE_FUNCTIONS_AGENTS_REASONING_SUMMARY": "concise"
+  }
+}
